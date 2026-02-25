@@ -1,3 +1,7 @@
+
+# Words Affect Health
+— 言葉と体調判断についてのメモ —
+
 Status: Lab  
 Author: riichi  
 Created: 2023-04-10  
@@ -5,9 +9,6 @@ Updated: 2026-02-25
 Version: 0.1  
 
 ---
-# Words Affect Health
-— 言葉と体調判断についてのメモ —
-
 このリポジトリは、  
 健康・サプリ・生活習慣などを語る場で  
 **よく使われる言葉が、人の体調判断にどのような影響を与えるか**を  
