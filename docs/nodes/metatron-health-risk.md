@@ -1,5 +1,11 @@
 # Metatron Health Risk
 — Scientific, Public Health, and Ethical Analysis —
+Status: Lab
+Author: riichi
+Created: 2026-02-10
+Updated: 2026-02-25
+Version: 0.1
+
 
 ## TL;DR
 - 「メタトロン」による健康・身体異常の示唆は科学的根拠がない  
