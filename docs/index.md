@@ -8,3 +8,4 @@
 
 - [MS Vendor Lock-in Problems](./nodes/ms-vendor-lockin-problems.md)
 - [ジビエ肉の危険性](./nodes/danger.md)
+- [天気予報と料理力学と法華経論](./nodes/lotas.md)
