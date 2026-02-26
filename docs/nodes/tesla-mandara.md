@@ -47,7 +47,7 @@
 
   この段階でテスラの曼荼羅が完全に浮かび上がってくる。
 
-  - ![](./../images/tesla-mandara.png)
+  - ![](./../image/tesla-mandara.png)
 
   <!-- -->
 
