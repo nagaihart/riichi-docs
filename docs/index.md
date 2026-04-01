@@ -12,4 +12,4 @@
 - [メタトロンの健康リスク](./nodes/metatron-health-risk.md)
 - [ニコラテスラの曼荼羅の考察](./nodes/tesla-mandara.md)
 - [言葉と健康](./nodes/words-affect-health.md)
-- [空間構造の認識欠如とスコープの狭小さ](nodes/space-structure-and-yutori.md)
+- [ゆとり教育の弊害の仮説](nodes/space-structure-and-yutori.md)
