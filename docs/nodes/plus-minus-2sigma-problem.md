@@ -13,7 +13,7 @@
 
 ## 正規分布の位置関係
 
-![normal distribution](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Standard_deviation_diagram.svg/1024px-Standard_deviation_diagram.svg.png)
+![normal distribution](https://upload.wikimedia.org/wikipedia/commons/8/8c/Standard_deviation_diagram.svg)
 
 - μ：平均（多数派の中心）
 - ±1σ：約68%
