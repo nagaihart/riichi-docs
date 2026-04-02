@@ -13,3 +13,4 @@
 - [ニコラテスラの曼荼羅の考察](./nodes/tesla-mandara.md)
 - [言葉と健康](./nodes/words-affect-health.md)
 - [ゆとり教育の弊害の仮説](nodes/space-structure-and-yutori.md)
+- [＋−2シグマ問題](nodes/plus-minus-2sigma-problem.md)
