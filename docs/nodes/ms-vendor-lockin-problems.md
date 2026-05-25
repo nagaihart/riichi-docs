@@ -1,7 +1,7 @@
 ---
 title: MS Vendor Lock-in Problems
 created: 2026-02-25 11:00 +0900
-updated: 2026-04-04 11:00 +0900
+updated: 2026-04-06 11:00 +0900
 author: riichi
 ---
 # ms-vendor-lockin-problems  
@@ -704,7 +704,7 @@ Scripterとは、
 Unixの本当の意義は、  
 Scripterという存在を通して、  
 再び人間の手に取り戻される。
-# 05_filesystem_and_file_ops.md
+
 # 第5章｜ファイルシステムと操作  
 ── コンピュータの「片づけ方」と「手の動き」
 
