@@ -16,3 +16,4 @@
 - [＋−2シグマ問題](nodes/plus-minus-2sigma-problem.md)
 - [気象予測の限界と相関宇宙論](./nodes/weather-prediction-limit.md)
 - [いたるところで起きている地獄](./nodes/excel-hell.md)
+- [因果と責任](./nodes/causality-and-responsibility.md)
