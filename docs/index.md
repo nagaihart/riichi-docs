@@ -18,4 +18,4 @@
 - [いたるところで起きている地獄](./nodes/excel-hell.md)
 - [因果と責任](./nodes/causality-and-responsibility.md)
 - [連鎖の切断](./nodes/breaking-the-chain.md)
-- [連鎖の観測](./nodes/observation-of-structure.md)
+- [連鎖の観測](./nodes/chain-observation.md)
